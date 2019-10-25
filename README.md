@@ -1,5 +1,4 @@
-# bulma.github.io
-Bulma template
+# bulma-template
 
 Working version:
 http://bojan.22web.org/bulma/
